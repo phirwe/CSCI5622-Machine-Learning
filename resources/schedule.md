@@ -44,18 +44,18 @@
 |      | 03.28        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|    |			| 
 |      | 03.30        | 		         | 			   |                            		 |			|    |			| 
 | 12   | 04.02        | [Neilsen 1](http://neuralnetworksanddeeplearning.com/chap1.html) 																				 | 			             | Neural Networks 1					             | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson17.pdf)         |    |          | 
-|      | 04.04        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																				 | 			             | Neural Networks 2					             |	 		|	 |   		| 
+|      | 04.04        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																				 | 			             | Neural Networks 2 | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson18.pdf)	 		| [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22944)	 |   		| 
 |      | 04.06        | 		         | 			   |                            		 |			|    | [Spotlight](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#midpoint-spotlight)| 
-| 13   | 04.09        | 				 | 			   | Neural Networks 3                   |          |    |          |
-|      | 04.11        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)  												 | 			                           | Reinforcement Learning 1			 |			|    | [Feedback](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#midpoint-peer-feedback)| 
+| 13   | 04.09        | 				 | 			   | Neural Networks 3                   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson19.pdf)         |    |          |
+|      | 04.11        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)  												 | 			                           | Reinforcement Learning 1			 | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson20.pdf)			|    | [Feedback](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#midpoint-peer-feedback)| 
 |      | 04.13        | 		         | 			   |                            		 |			|    | [Boosting](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/hmwk/boosting/boosting.ipynb)	| 
-| 14   | 04.16        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)																							 | 			                           | Reinforcement Learning 2			 |	        |    |          | 
-|      | 04.18        | [Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf) 																				 | 			                           | Reinforcement Learning 3            |			|	 |		    | 
+| 14   | 04.16        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)																							 | 			                           | Reinforcement Learning 2			 |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson21.pdf)	        | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23135)    |          | 
+|      | 04.18        | [Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf) 																				 | 			                           | K-Means/GMMs            |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson22.pdf)		| 	 |		    | 
 |      | 04.20        | 		         | 			   |                            		 |			|    |          | 
-| 15   | 04.23        | 				 |  		   | K-Means/GMMs                        |			|	 |		    | 
+| 15   | 04.23        | 				 |  		   | USL Mystery Day                        |			|	 |		    | 
 |      | 04.25        | 				 | 			   | Topic Modeling						 |	        |    |			| 
-|      | 04.27        | 		         | 			   |                            		 |			|    | NeuralNets| 
+|      | 04.27        | 		         | 			   |                            		 |			|    | | 
 | 16   | 04.30        | 				 | 			   | Ethics and ML                       |			|    |			| 
-|      | 05.02        | 				 | 			   | [Poster Session](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#final-poster-presentation)                                                        |		   |    |           |
+|      | 05.02        | 				 | 			   | [Poster Session](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#final-poster-presentation)                                                        |		   |    |   [NeuralNets](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/hmwk/neuralnets/neuralnets.ipynb)        |
 |      | 05.04        | 				 | 			   |  					                 |			|    | [Report](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#final-report)    |
 
