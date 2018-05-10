@@ -1,4 +1,8 @@
-### CSCI 5622: Graduate Machine Learning
+## CSCI 5622: Graduate Machine Learning
+
+### This folder contains my assignments from this course.
+
+
 ***
 
 Chris Ketelsen
@@ -14,3 +18,5 @@ Spring, 2018
 [Calendar and Slides](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/schedule.md)
 
 [Syllabus](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/syllabus.md)
+
+
